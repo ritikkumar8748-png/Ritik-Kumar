@@ -1,0 +1,1374 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+/Title (Electricity Bill Calculator Project Report \055 Ritik Kumar)
+/Author (Ritik Kumar)
+/Subject (Python 3 Project Report\054 PS No\056 89)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 13
+/Kids [ 4 0 R 13 0 R 16 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R 34 0 R 37 0 R 40 0 R 43 0 R 46 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 3741
+>>
+stream
+q
+q
+
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 728.1732 cm
+Q
+q
+1 0 0 1 62.69291 711.1732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 97.94088 0 Td (RUNGTA INTERNATIONAL SKILLS UNIVERSITY) Tj T* -97.94088 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 688.1732 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 76.59888 0 Td (SCHOOL OF COMPUTER SCIENCE AND ENGINEERING) Tj T* -76.59888 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.4961 cm
+Q
+q
+1 0 0 1 62.69291 633.4961 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 20 Tf 26 TL 143.2649 0 Td (PROJECT REPORT) Tj T* -143.2649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.4961 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 225.9449 0 Td (ON) Tj T* -225.9449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 591.9921 cm
+Q
+q
+1 0 0 1 62.69291 565.9921 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 6 Tm /F2 20 Tf 26 TL 72.17488 0 Td (ELECTRICITY BILL CALCULATOR) Tj T* -72.17488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 538.9921 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 207.2669 0 Td (PS No. 89) Tj T* -207.2669 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 510.315 cm
+Q
+q
+1 0 0 1 62.69291 493.315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 57.58488 0 Td (Programming Fundamentals and Logic Building Using Python) Tj T* -57.58488 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 470.315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 181.2509 0 Td (SESSION: 2026\22627) Tj T* -181.2509 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 413.2913 cm
+Q
+q
+1 0 0 1 85.03937 305.2913 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 89 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F2 9.6 Tf 14 TL (Submitted By) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 103 cm
+Q
+q
+1 0 0 1 6 62 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (Name:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 62 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (REF No.:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 35 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (________________________________________) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (Course:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 105.2126 8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.4 Tm /F1 9.6 Tf 14 TL (Bachelor of Technology in Computer Science and Engineering) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 262.7717 cm
+Q
+q
+1 0 0 1 62.69291 243.7717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 9 Tf 13 TL 186.6869 0 Td (Under the Guidance of) Tj T* -186.6869 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 235.2677 cm
+Q
+q
+1 0 0 1 62.69291 216.2677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL 134.8649 0 Td (________________________________________) Tj T* -134.8649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 197.2677 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F1 9 Tf 13 TL 167.9219 0 Td (Name of Faculty with Designation) Tj T* -167.9219 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 146.2441 cm
+Q
+q
+1 0 0 1 62.69291 129.2441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 76.59888 0 Td (SCHOOL OF COMPUTER SCIENCE AND ENGINEERING) Tj T* -76.59888 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 106.2441 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 97.94088 0 Td (RUNGTA INTERNATIONAL SKILLS UNIVERSITY) Tj T* -97.94088 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 83.24409 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 5 Tm /F2 12 Tf 17 TL 163.6169 0 Td (BHILAI, CHHATTISGARH) Tj T* -163.6169 0 Td ET
+Q
+Q
+ 
+
+
+Q
+
+
+q
+BT
+1 0 0 1 261.6378 56.88977 Tm
+/helv 10 Tf .1 .1 .1 RG .1 .1 .1 rg [<444543454d4245522032303236>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+185 365 225 18 re
+f*
+n
+185 338 225 18 re
+f*
+n
+190 214 215 18 re
+f*
+0 0 0 rg
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 190 370 Tm
+(Ritik Kumar) Tj
+T*
+ET
+BT
+1 0 0 1 190 343 Tm
+(01619) Tj
+T*
+ET
+BT
+1 0 0 1 274.8528 220 Tm
+(Arjit Singh) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Symbol
+/Name /F3
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+/Name /F5
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 15 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 3407
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (TABLE OF CONTENTS)Tj T* ET Q q 1 0 0 1 77.95276 375.6929 cm .090196 .211765 .364706 rg 0 360 439.3701 -30 re f* 1 1 1 rg 0 330 439.3701 -30 re f* .952941 .964706 .980392 rg 0 300 439.3701 -30 re f* 1 1 1 rg 0 270 439.3701 -30 re f* .952941 .964706 .980392 rg 0 240 439.3701 -30 re f* 1 1 1 rg 0 210 439.3701 -30 re f* .952941 .964706 .980392 rg 0 180 439.3701 -30 re f* 1 1 1 rg 0 150 439.3701 -30 re f* .952941 .964706 .980392 rg 0 120 439.3701 -30 re f* 1 1 1 rg 0 90 439.3701 -30 re f* .952941 .964706 .980392 rg 0 60 439.3701 -30 re f* 1 1 1 rg 0 30 439.3701 -30 re f* BT 12 TL/F2 9 Tf 1 0 0 1 22.68007 342 Tm (S. No.)Tj T* ET BT 1 0 0 1 76.86614 342 Tm (Chapter)Tj T* ET BT 1 0 0 1 384.6815 342 Tm (Page No.)Tj T* ET 0 0 0 rg BT/F1 9 Tf 1 0 0 1 32.93107 312 Tm (1)Tj T* ET BT 1 0 0 1 76.86614 312 Tm (Abstract)Tj T* ET BT 1 0 0 1 401.435 312 Tm (2)Tj T* ET BT 1 0 0 1 32.93107 282 Tm (2)Tj T* ET BT 1 0 0 1 76.86614 282 Tm (Introduction)Tj T* ET BT 1 0 0 1 401.435 282 Tm (3)Tj T* ET BT 1 0 0 1 32.93107 252 Tm (3)Tj T* ET BT 1 0 0 1 76.86614 252 Tm (Scope and Objectives)Tj T* ET BT 1 0 0 1 401.435 252 Tm (4)Tj T* ET BT 1 0 0 1 32.93107 222 Tm (4)Tj T* ET BT 1 0 0 1 76.86614 222 Tm (System Requirements)Tj T* ET BT 1 0 0 1 401.435 222 Tm (5)Tj T* ET BT 1 0 0 1 32.93107 192 Tm (5)Tj T* ET BT 1 0 0 1 76.86614 192 Tm (Methodology)Tj T* ET BT 1 0 0 1 401.435 192 Tm (6)Tj T* ET BT 1 0 0 1 32.93107 162 Tm (6)Tj T* ET BT 1 0 0 1 76.86614 162 Tm (Flowchart)Tj T* ET BT 1 0 0 1 401.435 162 Tm (7)Tj T* ET BT 1 0 0 1 32.93107 132 Tm (7)Tj T* ET BT 1 0 0 1 76.86614 132 Tm (Function Design)Tj T* ET BT 1 0 0 1 401.435 132 Tm (8)Tj T* ET BT 1 0 0 1 32.93107 102 Tm (8)Tj T* ET BT 1 0 0 1 76.86614 102 Tm (Implementation)Tj T* ET BT 1 0 0 1 401.435 102 Tm (9)Tj T* ET BT 1 0 0 1 32.93107 72 Tm (9)Tj T* ET BT 1 0 0 1 76.86614 72 Tm (Testing and Interim Progress)Tj T* ET BT 1 0 0 1 398.933 72 Tm (10)Tj T* ET BT 1 0 0 1 30.42907 42 Tm (10)Tj T* ET BT 1 0 0 1 76.86614 42 Tm (Conclusion)Tj T* ET BT 1 0 0 1 398.933 42 Tm (11)Tj T* ET BT 1 0 0 1 30.42907 12 Tm (11)Tj T* ET BT 1 0 0 1 76.86614 12 Tm (References)Tj T* ET BT 1 0 0 1 398.933 12 Tm (12)Tj T* ET q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 360 m 439.3701 360 l S 0 0 m 439.3701 0 l S 0 0 m 0 360 l S 439.3701 0 m 439.3701 360 l S 0 330 m 439.3701 330 l S 0 300 m 439.3701 300 l S 0 270 m 439.3701 270 l S 0 240 m 439.3701 240 l S 0 210 m 439.3701 210 l S 0 180 m 439.3701 180 l S 0 150 m 439.3701 150 l S 0 120 m 439.3701 120 l S 0 90 m 439.3701 90 l S 0 60 m 439.3701 60 l S 0 30 m 439.3701 30 l S 70.86614 0 m 70.86614 360 l S 368.5039 0 m 368.5039 360 l S Q Q q 1 0 0 1 62.69291 324.6772 cm 0 0 0 rg BT 11 TL/F1 8.3 Tf 1 0 0 1 0 2.7 Tm (Note: The page numbers in this contents list refer to the printed report pages after the cover page.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<31>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/Type /Page
+/Contents 17 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 18 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+17 0 obj
+<<
+/Length 3025
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (1. ABSTRACT)Tj T* ET Q q 1 0 0 1 62.69291 693.6929 cm 0 0 0 rg BT .22671 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm <54686520456c6563747269636974792042696c6c2043616c63756c61746f72206973206120736d616c6c20507974686f6e2070726f6772616d20707265706172656420746f2063616c63756c617465206120636f6e73756d6572927320656c6563747269636974792062696c6c2066726f6d>Tj T* 1.501254 Tw (the number of units used. The bill is calculated using three electricity-rate slabs, a fixed charge and a tax)Tj T* 0 Tw <616d6f756e742e205468652070726f6772616d20616c736f2061736b7320666f722074686520636f6e73756d65729273206e616d6520616e6420646973706c6179732074686520726573756c7420696e2061206e6561742062696c6c20666f726d61742e>Tj T* ET Q q 1 0 0 1 62.69291 643.6929 cm 0 0 0 rg BT .023584 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The problem addressed by this project is the repeated manual calculation of electricity charges. When different)Tj T* -.121844 Tw (rates are applied to different ranges of units, it can be easy to make a calculation mistake. This program follows)Tj T* 0 Tw (the given slab rules and performs the calculation automatically.)Tj T* ET Q q 1 0 0 1 62.69291 593.6929 cm 0 0 0 rg BT .485664 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The program is written in Python 3. It uses input statements, conditional statements, arithmetic operators and)Tj T* .62091 Tw (user-defined functions. A try-except block is also used so that non-numeric unit input can be handled without)Tj T* 0 Tw (stopping the program unexpectedly.)Tj T* ET Q q 1 0 0 1 62.69291 543.6929 cm 0 0 0 rg BT 2.122144 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The current version covers the requirements given in Project Statement No. 89. It calculates the energy)Tj T* 1.139293 Tw (charge, adds the fixed charge of Rs. 50, calculates tax at 5% on the energy charge plus fixed charge, and)Tj T* 0 Tw (prints the total bill. It also checks that the entered units are not negative.)Tj T* ET Q q 1 0 0 1 62.69291 520.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Expected outcome)Tj T* ET Q q 1 0 0 1 62.69291 472.6929 cm 0 0 0 rg BT -.11169 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The expected outcome is a simple and understandable program that gives the correct bill for normal, boundary,)Tj T* 2.192544 Tw (higher-unit and invalid-input cases. It can be used as a basic example of applying Python programming)Tj T* 0 Tw (concepts to a practical calculation problem.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<32>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/Type /Page
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 21 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 4078
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (2. INTRODUCTION)Tj T* ET Q q 1 0 0 1 62.69291 679.6929 cm 0 0 0 rg BT 1.28424 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm (Python is a high-level programming language that is commonly used for learning programming and solving)Tj T* .923448 Tw (everyday problems. Its syntax is easy to read, so a beginner can focus on the logic of a problem instead of)Tj T* .476197 Tw (spending too much time on complicated language rules. Python supports conditions, functions and operators,)Tj T* 0 Tw (which are useful for building this project.)Tj T* ET Q q 1 0 0 1 62.69291 656.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Background)Tj T* ET Q q 1 0 0 1 62.69291 608.6929 cm 0 0 0 rg BT .434054 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Electricity consumers are charged according to the number of units they use. In this project, the charge is not)Tj T* 1.295448 Tw (the same for every unit. The first 100 units have one rate, the next 100 units have another rate, and units)Tj T* 0 Tw (above 200 have a higher rate. A fixed charge and tax are also added to the bill.)Tj T* ET Q q 1 0 0 1 62.69291 585.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Problem statement)Tj T* ET Q q 1 0 0 1 62.69291 537.6929 cm 0 0 0 rg BT 2.48871 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Write a Python 3 program that takes the consumer name and units consumed as input, calculates the)Tj T* .848454 Tw (electricity energy charge using the given slabs, adds a fixed charge and tax, and prints a formatted bill. The)Tj T* 0 Tw (program must use if-elif-else for slab-wise calculation and functions for organising the work.)Tj T* ET Q q 1 0 0 1 62.69291 514.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Motivation)Tj T* ET Q q 1 0 0 1 62.69291 466.6929 cm 0 0 0 rg BT .05811 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The main motivation for choosing this problem is that it connects programming concepts with a familiar real-life)Tj T* .48951 Tw (activity. It gives practice in breaking a problem into smaller steps, checking conditions and testing the answer)Tj T* 0 Tw (with different inputs.)Tj T* ET Q q 1 0 0 1 62.69291 443.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Slab rates used in this project)Tj T* ET Q q 1 0 0 1 77.95276 329.6929 cm .090196 .211765 .364706 rg 0 108 439.3701 -18 re f* 1 1 1 rg 0 90 439.3701 -18 re f* .952941 .964706 .980392 rg 0 72 439.3701 -18 re f* 1 1 1 rg 0 54 439.3701 -18 re f* .952941 .964706 .980392 rg 0 36 439.3701 -18 re f* 1 1 1 rg 0 18 439.3701 -18 re f* BT 12 TL/F2 8.8 Tf 1 0 0 1 6 96.2 Tm (Unit range)Tj T* ET BT 1 0 0 1 218.5984 96.2 Tm (Rate)Tj T* ET 0 0 0 rg BT/F1 8.8 Tf 1 0 0 1 6 78.2 Tm (First 100 units)Tj T* ET BT 1 0 0 1 218.5984 78.2 Tm (Rs. 3 per unit)Tj T* ET BT 1 0 0 1 6 60.2 Tm <4e6578742031303020756e69747320283130319632303029>Tj T* ET BT 1 0 0 1 218.5984 60.2 Tm (Rs. 5 per unit)Tj T* ET BT 1 0 0 1 6 42.2 Tm (Above 200 units)Tj T* ET BT 1 0 0 1 218.5984 42.2 Tm (Rs. 8 per unit)Tj T* ET BT 1 0 0 1 6 24.2 Tm (Fixed charge)Tj T* ET BT 1 0 0 1 218.5984 24.2 Tm (Rs. 50)Tj T* ET BT 1 0 0 1 6 6.2 Tm (Tax)Tj T* ET BT 1 0 0 1 218.5984 6.2 Tm (5% of \(energy charge + fixed charge\))Tj T* ET q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 108 m 439.3701 108 l S 0 0 m 439.3701 0 l S 0 0 m 0 108 l S 439.3701 0 m 439.3701 108 l S 0 90 m 439.3701 90 l S 0 72 m 439.3701 72 l S 0 54 m 439.3701 54 l S 0 36 m 439.3701 36 l S 0 18 m 439.3701 18 l S 212.5984 0 m 212.5984 108 l S Q Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<33>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 24 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Length 3534
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (3. SCOPE AND OBJECTIVES)Tj T* ET Q q 1 0 0 1 62.69291 720.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Scope)Tj T* ET Q q 1 0 0 1 62.69291 672.6929 cm 0 0 0 rg BT .580977 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The project is limited to calculating a basic electricity bill from the units entered by one consumer. It uses the)Tj T* 1.45491 Tw (slab rates, fixed charge and tax stated in the project question. The program displays the consumer name,)Tj T* 0 Tw (units, energy charge, fixed charge, tax and final bill.)Tj T* ET Q q 1 0 0 1 62.69291 649.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (What the project covers)Tj T* ET Q q 1 0 0 1 62.69291 559.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 74.4 Tm <7f2054616b696e672074686520636f6e73756d6572206e616d65206173207465787420696e7075742e>Tj T* <7f2054616b696e6720656c65637472696369747920756e69747320617320696e7075742e>Tj T* <7f20436865636b696e6720666f72206e6567617469766520756e69747320616e6420696e76616c6964206e6f6e2d6e756d6572696320696e7075742e>Tj T* <7f2043616c63756c6174696e672074686520656e6572677920636861726765206163636f7264696e6720746f2074686520746872656520736c6162732e>Tj T* <7f20416464696e67207468652066697865642063686172676520616e642063616c63756c6174696e67203525207461782e>Tj T* <7f20446973706c6179696e67207468652062696c6c207769746820616d6f756e747320757020746f2074776f20646563696d616c20706c616365732e>Tj T* ET Q q 1 0 0 1 62.69291 536.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (What the project does not cover)Tj T* ET Q q 1 0 0 1 62.69291 488.6929 cm 0 0 0 rg BT .046409 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (This is a console-based learning project. It does not connect to an electricity meter or a utility company. It does)Tj T* 1.969269 Tw (not store customer records, accept online payments, create monthly history or calculate late fees. These)Tj T* 0 Tw (features are outside the given problem statement.)Tj T* ET Q q 1 0 0 1 62.69291 465.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Objectives)Tj T* ET Q q 1 0 0 1 62.69291 431.6929 cm 0 0 0 rg BT .29031 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (Main objective: To develop a simple Python program that calculates an electricity bill accurately from the units)Tj T* 0 Tw (consumed.)Tj T* ET Q q 1 0 0 1 62.69291 408.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Specific objectives)Tj T* ET Q q 1 0 0 1 62.69291 318.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 74.4 Tm (1. To understand how a real-life calculation problem can be converted into program steps.)Tj T* (2. To use if-elif-else statements for slab-wise rates.)Tj T* (3. To create and call functions for separate tasks.)Tj T* (4. To use arithmetic operators for charge and tax calculations.)Tj T* (5. To handle invalid input and negative units.)Tj T* (6. To test the program with the test cases provided in the project statement.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<34>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Type /Page
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 27 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 3896
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (4. SYSTEM REQUIREMENTS)Tj T* ET Q q 1 0 0 1 62.69291 720.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Hardware requirements)Tj T* ET Q q 1 0 0 1 62.69291 686.6929 cm 0 0 0 rg BT 2.015904 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (The program is small and does not need a high-performance computer. The following are suitable basic)Tj T* 0 Tw (requirements for running it:)Tj T* ET Q q 1 0 0 1 77.95276 570.6929 cm .090196 .211765 .364706 rg 0 108 439.3701 -18 re f* 1 1 1 rg 0 90 439.3701 -18 re f* .952941 .964706 .980392 rg 0 72 439.3701 -18 re f* 1 1 1 rg 0 54 439.3701 -18 re f* .952941 .964706 .980392 rg 0 36 439.3701 -18 re f* 1 1 1 rg 0 18 439.3701 -18 re f* BT 12 TL/F2 8.7 Tf 1 0 0 1 6 96.3 Tm (Component)Tj T* ET BT 1 0 0 1 142.063 96.3 Tm (Minimum / Suggested requirement)Tj T* ET 0 0 0 rg BT/F1 8.7 Tf 1 0 0 1 6 78.3 Tm (Processor)Tj T* ET BT 1 0 0 1 142.063 78.3 Tm (Any modern dual-core processor or equivalent)Tj T* ET BT 1 0 0 1 6 60.3 Tm (RAM)Tj T* ET BT 1 0 0 1 142.063 60.3 Tm (2 GB or more)Tj T* ET BT 1 0 0 1 6 42.3 Tm (Storage)Tj T* ET BT 1 0 0 1 142.063 42.3 Tm (A few MB for the Python file and report)Tj T* ET BT 1 0 0 1 6 24.3 Tm (Display)Tj T* ET BT 1 0 0 1 142.063 24.3 Tm (Standard monitor or laptop screen)Tj T* ET BT 1 0 0 1 6 6.3 Tm (Input device)Tj T* ET BT 1 0 0 1 142.063 6.3 Tm (Keyboard)Tj T* ET q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 108 m 439.3701 108 l S 0 0 m 439.3701 0 l S 0 0 m 0 108 l S 439.3701 0 m 439.3701 108 l S 0 90 m 439.3701 90 l S 0 72 m 439.3701 72 l S 0 54 m 439.3701 54 l S 0 36 m 439.3701 36 l S 0 18 m 439.3701 18 l S 136.063 0 m 136.063 108 l S Q Q q 1 0 0 1 62.69291 547.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Software requirements)Tj T* ET Q q 1 0 0 1 77.95276 433.6929 cm .090196 .211765 .364706 rg 0 108 439.3701 -18 re f* 1 1 1 rg 0 90 439.3701 -18 re f* .952941 .964706 .980392 rg 0 72 439.3701 -18 re f* 1 1 1 rg 0 54 439.3701 -18 re f* .952941 .964706 .980392 rg 0 36 439.3701 -18 re f* 1 1 1 rg 0 18 439.3701 -18 re f* BT 12 TL/F2 8.7 Tf 1 0 0 1 6 96.3 Tm (Software)Tj T* ET BT 1 0 0 1 142.063 96.3 Tm (Requirement / use)Tj T* ET 0 0 0 rg BT/F1 8.7 Tf 1 0 0 1 6 78.3 Tm (Operating system)Tj T* ET BT 1 0 0 1 142.063 78.3 Tm (Windows, Linux or macOS)Tj T* ET BT 1 0 0 1 6 60.3 Tm (Programming language)Tj T* ET BT 1 0 0 1 142.063 60.3 Tm (Python 3)Tj T* ET BT 1 0 0 1 6 42.3 Tm (IDE / editor)Tj T* ET BT 1 0 0 1 142.063 42.3 Tm (IDLE, Visual Studio Code, PyCharm or any text editor)Tj T* ET BT 1 0 0 1 6 24.3 Tm (Libraries)Tj T* ET BT 1 0 0 1 142.063 24.3 Tm (No external libraries are required)Tj T* ET BT 1 0 0 1 6 6.3 Tm (Execution mode)Tj T* ET BT 1 0 0 1 142.063 6.3 Tm (Console / terminal)Tj T* ET q .666667 .717647 .768627 RG 1 J 1 j .5 w 0 108 m 439.3701 108 l S 0 0 m 439.3701 0 l S 0 0 m 0 108 l S 439.3701 0 m 439.3701 108 l S 0 90 m 439.3701 90 l S 0 72 m 439.3701 72 l S 0 54 m 439.3701 54 l S 0 36 m 439.3701 36 l S 0 18 m 439.3701 18 l S 136.063 0 m 136.063 108 l S Q Q q 1 0 0 1 62.69291 382.685 cm 0 0 0 rg BT .097824 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (The program uses only built-in Python features such as input\(\), print\(\), int\(\), format\(\), if-elif-else and try-except.)Tj T* 0 Tw (Therefore, no separate package installation is needed.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<35>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+27 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+28 0 obj
+<<
+/Type /Page
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 30 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Length 3107
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (5. METHODOLOGY)Tj T* ET Q q 1 0 0 1 62.69291 693.6929 cm 0 0 0 rg BT 1.151916 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The project was completed by dividing the problem into small steps. First, the required inputs and bill rules)Tj T* .68751 Tw (were identified. Then the calculation logic was planned, written in Python and checked using the sample test)Tj T* 0 Tw (cases.)Tj T* ET Q q 1 0 0 1 62.69291 670.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Problem analysis)Tj T* ET Q q 1 0 0 1 62.69291 608.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm (Input: Consumer name and number of units consumed.)Tj T* .459021 Tw (Processing: Calculate energy charge using the correct slab, add Rs. 50 fixed charge, calculate 5% tax on the)Tj T* 0 Tw (sum of energy and fixed charges, and find the total bill.)Tj T* (Output: A formatted bill showing the consumer name, units, each charge and the final amount.)Tj T* ET Q q 1 0 0 1 62.69291 585.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Algorithm)Tj T* ET Q q 1 0 0 1 62.69291 411.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 158.4 Tm (1. Start the program.)Tj T* (2. Read the consumer name.)Tj T* (3. Read the units consumed.)Tj T* (4. Convert the unit input into an integer. If conversion fails, display an invalid-input message.)Tj T* (5. If units are less than zero, display an invalid-units message.)Tj T* (6. If units are from 0 to 100, calculate energy charge at Rs. 3 per unit.)Tj T* (7. If units are from 101 to 200, charge Rs. 3 for the first 100 units and Rs. 5 for the remaining units.)Tj T* -.030393 Tw (8. If units are above 200, charge Rs. 3 for the first 100, Rs. 5 for the next 100 and Rs. 8 for the remaining units.)Tj T* 0 Tw (9. Add the fixed charge of Rs. 50.)Tj T* (10. Calculate tax at 5% of energy charge plus fixed charge.)Tj T* (11. Calculate the total bill and print the bill.)Tj T* (12. Stop.)Tj T* ET Q q 1 0 0 1 62.69291 388.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Coding, testing and debugging)Tj T* ET Q q 1 0 0 1 62.69291 340.6929 cm 0 0 0 rg BT .87856 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The calculation is placed in a separate function so that the slab logic is not repeated in the main part of the)Tj T* -.041873 Tw (program. A second function prepares and prints the bill. The program is then run with normal, boundary, invalid)Tj T* 0 Tw (and above-200-unit inputs. The output is compared with the expected values given in the question.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<36>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+30 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+31 0 obj
+<<
+/Type /Page
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 33 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 5615
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 295.4138 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (6. FLOWCHART)Tj T* ET Q q 1 0 0 1 62.69291 693.6929 cm 0 0 0 rg BT .460151 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The flowchart below shows the main steps followed by the program. It begins by taking the consumer details,)Tj T* 1.35531 Tw (checks the entered units, performs the slab calculation and finally displays the bill. Invalid input is handled)Tj T* 0 Tw (separately.)Tj T* ET Q q 1 0 0 1 62.69291 93.25197 cm .917647 .94902 .972549 rg .090196 .211765 .364706 RG 283.4646 541.4173 m 283.4646 550.8105 254.9095 558.4252 219.685 558.4252 c 184.4606 558.4252 155.9055 550.8105 155.9055 541.4173 c 155.9055 532.0241 184.4606 524.4094 219.685 524.4094 c 254.9095 524.4094 283.4646 532.0241 283.4646 541.4173 c B* 0 0 0 rg BT 9.36 TL/F1 7.8 Tf 1 0 0 1 206.9008 538.9173 Tm (START)Tj T* ET 219.685 524.4094 m 219.685 487.7244 l S 219.685 487.7244 m 216.685 491.7244 l S 219.685 487.7244 m 222.685 491.7244 l S .917647 .94902 .972549 rg 96.12598 447.874 m 343.2441 447.874 l 345.4553 447.874 347.2441 449.6628 347.2441 451.874 c 347.2441 480.7244 l 347.2441 482.9356 345.4553 484.7244 343.2441 484.7244 c 96.12598 484.7244 l 93.91478 484.7244 92.12598 482.9356 92.12598 480.7244 c 92.12598 451.874 l 92.12598 449.6628 93.91478 447.874 96.12598 447.874 c h B* 0 0 0 rg BT/F1 7.8 Tf 1 0 0 1 164.4103 463.7992 Tm (Enter consumer name and units)Tj T* ET 219.685 447.874 m 219.685 411.189 l S 219.685 411.189 m 216.685 415.189 l S 219.685 411.189 m 222.685 415.189 l S .917647 .94902 .972549 rg 219.685 386.9291 m 350.0787 411.0236 l 219.685 363.8346 l 89.29134 411.0236 l h B* 0 0 0 rg BT/F1 7.8 Tf 1 0 0 1 154.6486 384.4291 Tm (Can units be converted to an integer?)Tj T* ET 350.0787 386.9291 m 384.0945 386.9291 l S 384.0945 386.9291 m 384.0945 345.8268 l S BT 8.4 TL/F1 7 Tf 1 0 0 1 355.748 394.0157 Tm (No)Tj T* ET 286.0472 308.9764 m 482.1417 308.9764 l 484.3529 308.9764 486.1417 310.7652 486.1417 312.9764 c 486.1417 341.8268 l 486.1417 344.038 484.3529 345.8268 482.1417 345.8268 c 286.0472 345.8268 l 283.836 345.8268 282.0472 344.038 282.0472 341.8268 c 282.0472 312.9764 l 282.0472 310.7652 283.836 308.9764 286.0472 308.9764 c h S BT 1 0 0 1 357.4455 323.1496 Tm (Print invalid input)Tj T* ET 384.0945 308.9764 m 384.0945 277.7953 l S 384.0945 277.7953 m 290.5512 277.7953 l S 290.5512 277.7953 m 290.5512 252.2835 l S 282.0472 252.2835 m 299.0551 252.2835 l S 219.685 362.8346 m 219.685 317.6457 l S 219.685 317.6457 m 216.685 321.6457 l S 219.685 317.6457 m 222.685 321.6457 l S BT/F1 7 Tf 1 0 0 1 223.685 338.7402 Tm (Yes)Tj T* ET .917647 .94902 .972549 rg 219.685 289.1339 m 325.9843 311.811 l 219.685 267.4567 l 113.3858 311.811 l h B* 0 0 0 rg BT 9.36 TL/F1 7.8 Tf 1 0 0 1 186.301 286.6339 Tm (Are units negative?)Tj T* ET 219.685 266.4567 m 219.685 218.4331 l S 219.685 218.4331 m 216.685 222.4331 l S 219.685 218.4331 m 222.685 222.4331 l S BT 8.4 TL/F1 7 Tf 1 0 0 1 223.685 240.9449 Tm (No)Tj T* ET .917647 .94902 .972549 rg 89.03937 178.5827 m 350.3307 178.5827 l 352.5419 178.5827 354.3307 180.3715 354.3307 182.5827 c 354.3307 211.4331 l 354.3307 213.6443 352.5419 215.4331 350.3307 215.4331 c 89.03937 215.4331 l 86.82817 215.4331 85.03937 213.6443 85.03937 211.4331 c 85.03937 182.5827 l 85.03937 180.3715 86.82817 178.5827 89.03937 178.5827 c h B* 0 0 0 rg BT 9.36 TL/F1 7.8 Tf 1 0 0 1 160.0813 194.5079 Tm (Calculate slab-wise energy charge)Tj T* ET 219.685 178.5827 m 219.685 141.8976 l S 219.685 141.8976 m 216.685 145.8976 l S 219.685 141.8976 m 222.685 145.8976 l S .917647 .94902 .972549 rg 74.86614 102.0472 m 364.5039 102.0472 l 366.7151 102.0472 368.5039 103.836 368.5039 106.0472 c 368.5039 143.4016 l 368.5039 145.6128 366.7151 147.4016 364.5039 147.4016 c 74.86614 147.4016 l 72.65494 147.4016 70.86614 145.6128 70.86614 143.4016 c 70.86614 106.0472 l 70.86614 103.836 72.65494 102.0472 74.86614 102.0472 c h B* 0 0 0 rg BT/F1 7.8 Tf 1 0 0 1 159.8551 126.2244 Tm (Add fixed charge; calculate 5% tax)Tj T* ET BT 1 0 0 1 198.8746 117.2244 Tm (and total bill)Tj T* ET 219.685 102.0472 m 219.685 59.69291 l S 219.685 59.69291 m 216.685 63.69291 l S 219.685 59.69291 m 222.685 63.69291 l S .917647 .94902 .972549 rg 325.9843 36.85039 m 325.9843 46.24358 278.3925 53.85827 219.685 53.85827 c 160.9776 53.85827 113.3858 46.24358 113.3858 36.85039 c 113.3858 27.4572 160.9776 19.84252 219.685 19.84252 c 278.3925 19.84252 325.9843 27.4572 325.9843 36.85039 c B* 0 0 0 rg BT/F1 7.8 Tf 1 0 0 1 176.7733 34.35039 Tm (Print formatted bill / END)Tj T* ET 113.3858 289.1339 m 63.77953 289.1339 l S 63.77953 289.1339 m 63.77953 232.4409 l S -34.26772 195.5906 m 161.8268 195.5906 l 164.038 195.5906 165.8268 197.3794 165.8268 199.5906 c 165.8268 228.4409 l 165.8268 230.6521 164.038 232.4409 161.8268 232.4409 c -34.26772 232.4409 l -36.47892 232.4409 -38.26772 230.6521 -38.26772 228.4409 c -38.26772 199.5906 l -38.26772 197.3794 -36.47892 195.5906 -34.26772 195.5906 c h S BT 1 0 0 1 34.30333 209.7638 Tm (Print invalid units)Tj T* ET BT 8.4 TL/F1 7 Tf 1 0 0 1 72.28346 294.8031 Tm (Yes)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<37>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+33 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+34 0 obj
+<<
+/Type /Page
+/Contents 35 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 36 0 R
+/F2 8 0 R
+/F3 9 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+35 0 obj
+<<
+/Length 4011
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 293.1898 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (7. FUNCTION DESIGN)Tj T* ET Q q 1 0 0 1 62.69291 707.6929 cm 0 0 0 rg BT .018587 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (The program is divided into two user-defined functions. This makes the code easier to read and helps keep the)Tj T* 0 Tw (slab calculation separate from bill printing.)Tj T* ET Q q 1 0 0 1 62.69291 684.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Function 1: calculate_energy_charge\(units\))Tj T* ET Q q 1 0 0 1 62.69291 636.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Purpose: To calculate the energy charge based on the number of units consumed.)Tj T* <506172616d657465723a20756e697473209620616e20696e746567657220636f6e7461696e696e672074686520756e69747320636f6e73756d65642062792074686520636f6e73756d65722e>Tj T* <52657475726e2076616c75653a20656e657267792096207468652063616c63756c6174656420656e657267792063686172676520696e207275706565732e>Tj T* ET Q q 1 0 0 1 62.69291 586.6929 cm 0 0 0 rg BT -.035112 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Working: The function checks the unit range using if-elif-else. For up to 100 units, it multiplies all units by 3. For)Tj T* .07994 Tw (101 to 200 units, it calculates the first 100 at Rs. 3 and the remaining units at Rs. 5. For more than 200 units, it)Tj T* 0 Tw (calculates the first 100 at Rs. 3, the next 100 at Rs. 5 and the remaining units at Rs. 8.)Tj T* ET Q q 1 0 0 1 62.69291 563.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Function 2: generate_bill\(name, units\))Tj T* ET Q q 1 0 0 1 62.69291 515.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Purpose: To prepare and display the complete electricity bill.)Tj T* <506172616d65746572733a206e616d65209620636f6e73756d6572206e616d653b20756e6974732096206e756d626572206f6620756e69747320636f6e73756d65642e>Tj T* (Return value: This function prints the bill and does not return a calculated value.)Tj T* ET Q q 1 0 0 1 62.69291 465.6929 cm 0 0 0 rg BT .68871 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Working: It calls calculate_energy_charge\(units\), sets the fixed charge to Rs. 50, calculates tax as 5% of the)Tj T* .382409 Tw (energy charge plus fixed charge, adds all amounts to get the total bill and prints the details using two decimal)Tj T* 0 Tw (places.)Tj T* ET Q q 1 0 0 1 62.69291 442.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (How the functions work together)Tj T* ET Q q 1 0 0 1 62.69291 394.6929 cm 0 0 0 rg BT .790488 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The main part of the program accepts the input and checks whether it is valid. When the units are valid and)Tj T* .82868 Tw (non-negative, it calls generate_bill\(\). That function calls calculate_energy_charge\(\) to get the energy charge.)Tj T* 0 Tw (After receiving the returned amount, it completes the remaining calculations and prints the bill.)Tj T* ET Q q 1 0 0 1 62.69291 371.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Function flow)Tj T* ET Q q 1 0 0 1 62.69291 337.6929 cm 0 0 0 rg BT 2.311724 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (Main program )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( validate units )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( generate_bill\(name, units\) )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( calculate_energy_charge\(units\) )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( return)Tj T* 0 Tw (energy charge )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( calculate tax and total )Tj/F3 9.6 Tf <ae>Tj/F1 9.6 Tf ( print bill.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<38>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+36 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+37 0 obj
+<<
+/Type /Page
+/Contents 38 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 39 0 R
+/F2 8 0 R
+/F4 10 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 2833
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 293.1898 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (8. IMPLEMENTATION)Tj T* ET Q q 1 0 0 1 62.69291 720.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Program structure)Tj T* ET Q q 1 0 0 1 62.69291 672.6929 cm 0 0 0 rg BT 4.027783 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The project is implemented as one Python file, for example electricity_bill.py. The file contains the)Tj T* .556012 Tw (energy-charge function, the bill-generation function and the main section that accepts and validates input. No)Tj T* 0 Tw (external module is required.)Tj T* ET Q q 1 0 0 1 62.69291 649.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Complete Python program)Tj T* ET Q q 1 0 0 1 62.69291 266.4929 cm 0 0 0 rg BT 9.2 TL/F4 7.2 Tf 1 0 0 1 7 370 Tm (def calculate_energy_charge\(units\):)Tj T* (    if units <= 100:)Tj T* (        energy = units * 3)Tj T* (    elif units <= 200:)Tj T* (        energy = \(100 * 3\) + \(units - 100\) * 5)Tj T* (    else:)Tj T* (        energy = \(100 * 3\) + \(100 * 5\) + \(units - 200\) * 8)Tj T* T* (    return energy)Tj T* T* T* (def generate_bill\(name, units\):)Tj T* (    energy = calculate_energy_charge\(units\))Tj T* (    fixed = 50)Tj T* (    tax = \(energy + fixed\) * 5 / 100)Tj T* (    total = energy + fixed + tax)Tj T* T* (    print\("\\n========== ELECTRICITY BILL =========="\))Tj T* (    print\("Consumer Name :", name\))Tj T* (    print\("Units Consumed:", units\))Tj T* (    print\("--------------------------------------"\))Tj T* (    print\("Energy Charge : Rs.", format\(energy, ".2f"\)\))Tj T* (    print\("Fixed Charge  : Rs.", format\(fixed, ".2f"\)\))Tj T* (    print\("Tax \(5%\)      : Rs.", format\(tax, ".2f"\)\))Tj T* (    print\("--------------------------------------"\))Tj T* (    print\("Total Bill    : Rs.", format\(total, ".2f"\)\))Tj T* (    print\("======================================"\))Tj T* T* T* (name = input\("Enter consumer name: "\))Tj T* T* (try:)Tj T* (    units = int\(input\("Enter units consumed: "\)\))Tj T* T* (    if units < 0:)Tj T* (        print\("Invalid units. Enter a non-negative number."\))Tj T* (    else:)Tj T* (        generate_bill\(name, units\))Tj T* T* (except ValueError:)Tj T* (    print\("Invalid units. Enter a non-negative number."\))Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<39>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+39 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+40 0 obj
+<<
+/Type /Page
+/Contents 41 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 42 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+41 0 obj
+<<
+/Length 5129
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 293.1898 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (9. TESTING AND INTERIM PROGRESS)Tj T* ET Q q 1 0 0 1 62.69291 693.6929 cm 0 0 0 rg BT .45531 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The program was checked using the four cases supplied in Project Statement No. 89. The calculations below)Tj T* 1.651116 Tw (show how the expected bill is obtained. The same values can be compared with the console output after)Tj T* 0 Tw (running the Python file.)Tj T* ET Q q 1 0 0 1 62.69291 670.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm <54657374206361736520313a204e6f726d616c20696e707574209620383020756e697473>Tj T* ET Q q 1 0 0 1 62.69291 608.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm <456e65726779203d20383020d72033203d2052732e203234302e3030>Tj T* (Fixed charge = Rs. 50.00)Tj T* (Tax = 5% of \(240 + 50\) = Rs. 14.50)Tj T*/F2 9.6 Tf (Total bill = Rs. 304.50)Tj T* ET Q q 1 0 0 1 62.69291 585.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm <54657374206361736520323a20426f756e6461727920696e70757420962031303020756e697473>Tj T* ET Q q 1 0 0 1 62.69291 523.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm <456e65726779203d2031303020d72033203d2052732e203330302e3030>Tj T* (Fixed charge = Rs. 50.00)Tj T* (Tax = 5% of \(300 + 50\) = Rs. 17.50)Tj T*/F2 9.6 Tf (Total bill = Rs. 367.50)Tj T* ET Q q 1 0 0 1 62.69291 500.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm <54657374206361736520333a20496e76616c696420696e7075742096202d32302c207468656e20616263>Tj T* ET Q q 1 0 0 1 62.69291 466.6929 cm 0 0 0 rg BT .166944 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm <466f72202d32302c207468652070726f6772616d20646973706c6179733a2093496e76616c696420756e6974732e20456e7465722061206e6f6e2d6e65676174697665206e756d6265722e9420466f72206162632c20696e746567657220636f6e76657273696f6e20726169736573>Tj T* 0 Tw (ValueError and the except block displays the same message. No bill is generated.)Tj T* ET Q q 1 0 0 1 62.69291 443.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm <54657374206361736520343a20446966666572656e742076616c6964207363656e6172696f20962032353020756e697473>Tj T* ET Q q 1 0 0 1 62.69291 381.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm <456e65726779203d202831303020d7203329202b202831303020d7203529202b2028353020d7203829203d2052732e20312c3230302e3030>Tj T* (Fixed charge = Rs. 50.00)Tj T* (Tax = 5% of \(1200 + 50\) = Rs. 62.50)Tj T*/F2 9.6 Tf (Total bill = Rs. 1,312.50)Tj T* ET Q q 1 0 0 1 77.95276 280.0236 cm .090196 .211765 .364706 rg 0 90 439.3701 -18 re f* 1 1 1 rg 0 72 439.3701 -18 re f* .952941 .964706 .980392 rg 0 54 439.3701 -18 re f* 1 1 1 rg 0 36 439.3701 -18 re f* .952941 .964706 .980392 rg 0 18 439.3701 -18 re f* 1 1 1 rg BT 12 TL/F2 7.5 Tf 1 0 0 1 6 79.5 Tm (Test)Tj T* ET BT 1 0 0 1 85.37008 79.5 Tm (Input units)Tj T* ET BT 1 0 0 1 164.7402 79.5 Tm (Expected result)Tj T* ET 0 0 0 rg BT/F1 7.5 Tf 1 0 0 1 6 61.5 Tm <312096204e6f726d616c>Tj T* ET BT 1 0 0 1 85.37008 61.5 Tm (80)Tj T* ET BT 1 0 0 1 164.7402 61.5 Tm (Energy 240.00; Fixed 50.00; Tax 14.50; Total 304.50)Tj T* ET BT 1 0 0 1 6 43.5 Tm <32209620426f756e64617279>Tj T* ET BT 1 0 0 1 85.37008 43.5 Tm (100)Tj T* ET BT 1 0 0 1 164.7402 43.5 Tm (Energy 300.00; Fixed 50.00; Tax 17.50; Total 367.50)Tj T* ET BT 1 0 0 1 6 25.5 Tm <33209620496e76616c6964>Tj T* ET BT 1 0 0 1 85.37008 25.5 Tm (-20 / abc)Tj T* ET BT 1 0 0 1 164.7402 25.5 Tm (Invalid units message; no bill)Tj T* ET BT 1 0 0 1 6 7.5 Tm <3420962041626f766520323030>Tj T* ET BT 1 0 0 1 85.37008 7.5 Tm (250)Tj T* ET BT 1 0 0 1 164.7402 7.5 Tm (Energy 1200.00; Fixed 50.00; Tax 62.50; Total 1312.50)Tj T* ET q .666667 .717647 .768627 RG 1 J 1 j .45 w 0 90 m 439.3701 90 l S 0 0 m 439.3701 0 l S 0 0 m 0 90 l S 439.3701 0 m 439.3701 90 l S 0 72 m 439.3701 72 l S 0 54 m 439.3701 54 l S 0 36 m 439.3701 36 l S 0 18 m 439.3701 18 l S 79.37008 0 m 79.37008 90 l S 158.7402 0 m 158.7402 90 l S Q Q q 1 0 0 1 62.69291 242.8504 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Errors handled and progress)Tj T* ET Q q 1 0 0 1 62.69291 180.8504 cm 0 0 0 rg BT -.117856 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm (The program checks for negative units and non-numeric input. The main development work includes writing the)Tj T* 1.929497 Tw (two functions, applying the slab conditions, calculating tax and formatting the bill. Before submission, the)Tj T* .49112 Tw (student should run the file in the chosen Python editor and insert genuine screenshots of the program and its)Tj T* 0 Tw (output in the spaces or pages required by the faculty.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<3130>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+42 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+43 0 obj
+<<
+/Type /Page
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 45 0 R
+/F2 8 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 3157
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 293.1898 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (10. CONCLUSION)Tj T* ET Q q 1 0 0 1 62.69291 693.6929 cm 0 0 0 rg BT 2.373024 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (The Electricity Bill Calculator project demonstrates how Python can be used to solve a simple practical)Tj T* .672583 Tw (problem. The program accepts the consumer name and units consumed, calculates the energy charge using)Tj T* 0 Tw (the given slab rates, adds the fixed charge and tax, and displays the final bill.)Tj T* ET Q q 1 0 0 1 62.69291 629.6929 cm 0 0 0 rg BT 1.997428 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 46.4 Tm (The project uses basic programming concepts such as variables, input and output statements, arithmetic)Tj T* .23029 Tw (operators, conditional statements, functions and exception handling. Dividing the work into functions made the)Tj T* 1.55391 Tw (program easier to understand and maintain. Testing with 80, 100 and 250 units helped check the normal,)Tj T* 0 Tw (boundary and higher-unit calculations. Invalid values were also checked.)Tj T* ET Q q 1 0 0 1 62.69291 606.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Key learnings)Tj T* ET Q q 1 0 0 1 62.69291 530.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 60.4 Tm <7f204170706c79696e672069662d656c69662d656c73652073746174656d656e747320746f20612072616e67652d62617365642070726f626c656d2e>Tj T* <7f205573696e672066756e6374696f6e7320746f2064697669646520612070726f6772616d20696e746f20736d616c6c6572207461736b732e>Tj T* <7f2043616c63756c6174696e6720612070657263656e7461676520616e6420636f6d62696e696e6720646966666572656e742062696c6c20636f6d706f6e656e74732e>Tj T* <7f2048616e646c696e6720696e76616c696420696e7075742077697468207472792d6578636570742e>Tj T* <7f20436865636b696e672070726f6772616d20726573756c7473207769746820746573742063617365732e>Tj T* ET Q q 1 0 0 1 62.69291 507.6929 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (Future work)Tj T* ET Q q 1 0 0 1 62.69291 459.6929 cm 0 0 0 rg BT 2.05551 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (In a future version, the program could be extended to store consumer details, generate bills for multiple)Tj T* .743633 Tw (consumers, save bills to a file or provide a graphical user interface. These improvements are not included in)Tj T* 0 Tw (the present version because the current project focuses on the requirements of PS No. 89.)Tj T* ET Q q 1 0 0 1 62.69291 423.6929 cm 0 0 0 rg BT .12231 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (Overall, this project provided practice in converting a written problem statement into an algorithm and then into)Tj T* 0 Tw (a working Python program.)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<3131>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+Q
+
+
+endstream
+endobj
+45 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+46 0 obj
+<<
+/Type /Page
+/Contents 47 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 48 0 R
+/F2 8 0 R
+/F5 11 0 R
+/helv 12 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+47 0 obj
+<<
+/Length 3144
+>>
+stream
+q
+q q .780392 .823529 .870588 RG .5 w 56.69291 796.5354 m 538.5827 796.5354 l S .333333 .333333 .333333 rg BT 9.6 TL/F1 8 Tf 1 0 0 1 56.69291 807.874 Tm (RUNGTA INTERNATIONAL SKILLS UNIVERSITY)Tj T* ET 56.69291 42.51969 m 538.5827 42.51969 l S BT 1 0 0 1 293.1898 25.51181 Tm T* ET Q q 1 0 0 1 62.69291 749.6929 cm .090196 .211765 .364706 rg BT 21 TL/F2 17 Tf 1 0 0 1 0 4 Tm (11. REFERENCES)Tj T* ET Q q 1 0 0 1 62.69291 707.6929 cm 0 0 0 rg BT .405155 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (The following resources were used as learning references for understanding Python syntax and preparing the)Tj T* 0 Tw (program:)Tj T* ET Q q 1 0 0 1 62.69291 685.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 4.4 Tm (1. Python Software Foundation, )Tj/F5 9.6 Tf (Python 3 Documentation)Tj/F1 9.6 Tf (, https://docs.python.org/3/)Tj T* ET Q q 1 0 0 1 62.69291 665.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 4.4 Tm (2. Python Software Foundation, )Tj/F5 9.6 Tf (Built-in Functions)Tj/F1 9.6 Tf (, https://docs.python.org/3/library/functions.html)Tj T* ET Q q 1 0 0 1 62.69291 645.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 4.4 Tm (3. Python Software Foundation, )Tj/F5 9.6 Tf (Errors and Exceptions)Tj/F1 9.6 Tf (, https://docs.python.org/3/tutorial/errors.html)Tj T* ET Q q 1 0 0 1 62.69291 611.6929 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (4. Rungta International Skills University, School of Computer Science and Engineering, Project Statement No.)Tj T* <38393a2093456c6563747269636974792042696c6c2043616c63756c61746f7294202870726f76696465642070726f6a656374207368656574292e>Tj T* ET Q q 1 0 0 1 62.69291 577.6929 cm 0 0 0 rg BT -.093895 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 18.4 Tm (5. Rungta International Skills University, )Tj/F5 9.6 Tf (Python 1st Semester Project Report Format)Tj/F1 9.6 Tf ( \(provided report template,)Tj T* 0 Tw <53657373696f6e2032303236963237292e>Tj T* ET Q q 1 0 0 1 62.69291 514.6772 cm .090196 .211765 .364706 rg BT 15 TL/F2 12 Tf 1 0 0 1 0 3 Tm (STUDENT DECLARATION / FINAL CHECK)Tj T* ET Q q 1 0 0 1 62.69291 466.6772 cm 0 0 0 rg BT .077787 Tw 14 TL/F1 9.6 Tf 1 0 0 1 0 32.4 Tm (Before submitting, fill in the student name, REF number and faculty name on the cover page. Run the program)Tj T* 1.08771 Tw (yourself and attach actual screenshots if required by the faculty. Check the spelling of personal and course)Tj T* 0 Tw (details before printing.)Tj T* ET Q q 1 0 0 1 62.69291 404.6614 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 4.4 Tm (Submitted by: ________________________________)Tj T* ET Q q 1 0 0 1 62.69291 384.6614 cm 0 0 0 rg BT 14 TL/F1 9.6 Tf 1 0 0 1 0 4.4 Tm (Date: ____________________ Signature: ____________________)Tj T* ET Q Q
+
+q
+0 3 595.2756 31 re
+h
+1 1 1 RG 1 1 1 rg B
+Q
+
+
+q
+BT
+1 0 0 1 295.6378 25.5 Tm
+/helv 8 Tf .25 .25 .25 RG .25 .25 .25 rg [<3132>]TJ
+ET
+Q
+
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+120 401 180 18 re
+f*
+n
+85 381 115 18 re
+f*
+n
+240 381 115 18 re
+f*
+0 0 0 rg
+BT
+/F1-0 9.5 Tf
+11.4 TL
+ET
+BT
+1 0 0 1 125 407 Tm
+(Ritik Kumar) Tj
+T*
+ET
+BT
+1 0 0 1 90 387 Tm
+(18\05711\05726) Tj
+T*
+ET
+BT
+1 0 0 1 245 387 Tm
+(Ritik Kumar) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+48 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+xref
+0 49
+0000000000 65535 f 
+0000000015 00000 n 
+0000000197 00000 n 
+0000000341 00000 n 
+0000000390 00000 n 
+0000000678 00000 n 
+0000004471 00000 n 
+0000004578 00000 n 
+0000004685 00000 n 
+0000004797 00000 n 
+0000004874 00000 n 
+0000004980 00000 n 
+0000005096 00000 n 
+0000005194 00000 n 
+0000005453 00000 n 
+0000008913 00000 n 
+0000009021 00000 n 
+0000009280 00000 n 
+0000012358 00000 n 
+0000012466 00000 n 
+0000012725 00000 n 
+0000016856 00000 n 
+0000016964 00000 n 
+0000017223 00000 n 
+0000020810 00000 n 
+0000020918 00000 n 
+0000021177 00000 n 
+0000025126 00000 n 
+0000025234 00000 n 
+0000025493 00000 n 
+0000028653 00000 n 
+0000028761 00000 n 
+0000029020 00000 n 
+0000034688 00000 n 
+0000034796 00000 n 
+0000035065 00000 n 
+0000039129 00000 n 
+0000039237 00000 n 
+0000039507 00000 n 
+0000042393 00000 n 
+0000042501 00000 n 
+0000042760 00000 n 
+0000047942 00000 n 
+0000048050 00000 n 
+0000048309 00000 n 
+0000051519 00000 n 
+0000051627 00000 n 
+0000051897 00000 n 
+0000055094 00000 n 
+trailer
+<<
+/Size 49
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+55202
+%%EOF
+3 1 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+ /AF [50 0 R] /Names << /EmbeddedFiles << /Names [(Content Credentials) 50 0 R] >> >> >>
+endobj
+49 0 obj
+<< /Length 24276 /Type /EmbeddedFile /Subtype /application#2Fc2pa >>
+stream
+  ^‘jumb   jumdc2pa  Ä  ™ 8õqc2pa   ^Æjumb   Gjumdc2ma  Ä  ™ 8õqurn:c2pa:772af424-d5e1-4852-b410-def82eb29fe6   ûjumb   )jumdc2as  Ä  ™ 8õqc2pa.assertions   	πjumb   #jumd@À2ªäHùß*÷ÙCic2pa.icon    bfdb image/svg+xml   	wbidb<svg width="716" height="716" viewBox="0 0 716 716" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M508.749 317.399C516.777 287.314 508.991 253.884 485.389 230.282C461.788 206.681 428.36 198.895 398.273 206.923C376.231 184.928 343.39 174.956 311.148 183.596C278.906 192.234 255.45 217.292 247.36 247.361C217.291 255.451 192.233 278.91 183.595 311.149C174.957 343.391 184.927 376.232 206.924 398.274C198.896 428.359 206.683 461.789 230.284 485.391C253.885 508.992 287.313 516.779 317.401 508.75C339.442 530.745 372.286 540.717 404.525 532.079C436.767 523.441 460.223 498.384 468.313 468.315C498.383 460.224 523.44 436.766 532.078 404.526C540.716 372.285 530.747 339.443 508.749 317.402V317.399ZM470.899 244.776C486.892 260.77 493.488 282.601 490.687 303.412L415.577 260.046C412.411 258.218 408.509 258.218 405.345 260.046L317.401 310.82V277.526C317.401 275.191 318.652 273.005 320.676 271.837L387.644 233.174C414.178 218.353 448.346 222.223 470.901 244.776H470.899ZM357.837 311.144L398.275 334.491V381.185L357.837 404.532L317.398 381.185V334.491L357.837 311.144ZM264.776 269.693C265.207 239.305 285.644 211.649 316.453 203.393C338.3 197.54 360.505 202.744 377.127 215.573L302.014 258.937C298.848 260.764 296.898 264.144 296.898 267.798V369.346L268.065 352.699C266.043 351.531 264.776 349.353 264.776 347.017V269.691V269.693ZM203.391 316.454C209.244 294.608 224.854 277.978 244.276 269.999V356.73C244.276 360.384 246.226 363.763 249.392 365.591L337.337 416.365L308.503 433.013C306.481 434.181 303.961 434.188 301.939 433.02L234.971 394.357C208.868 378.789 195.138 347.261 203.391 316.454ZM244.775 470.9C228.781 454.906 222.186 433.075 224.986 412.264L300.096 455.63C303.263 457.457 307.164 457.457 310.328 455.63L398.273 404.856V438.149C398.273 440.485 397.022 442.671 394.997 443.839L328.029 482.502C301.495 497.322 267.327 493.452 244.772 470.9H244.775ZM450.897 445.982C450.466 476.371 430.029 504.027 399.22 512.283C377.373 518.136 355.168 512.932 338.547 500.102L413.659 456.738C416.826 454.911 418.775 451.532 418.775 447.877V346.329L447.609 362.977C449.631 364.145 450.897 366.323 450.897 368.659V445.985V445.982ZM512.282 399.221C506.429 421.068 490.819 437.697 471.397 445.676V358.946C471.397 355.292 469.448 351.912 466.281 350.085L378.336 299.311L407.17 282.663C409.192 281.495 411.712 281.487 413.734 282.655L480.702 321.318C506.805 336.887 520.536 368.415 512.282 399.221Z" fill="black"/>
+</svg>
+  jumb   )jumdcbor  Ä  ™ 8õqc2pa.actions.v2    ﬂcbor¢gactionsÅ§factionlc2pa.createdqdigitalSourceTypexFhttp://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMediamsoftwareAgent¢dnameegpt-6gversionegpt-6dwhenx2026-11-18T11:12:11.954434ZrallActionsIncludedÙ   §jumb   (jumdcbor  Ä  ™ 8õqc2pa.hash.data    tcbor•jexclusionsÅ¢estart‹°flength^‘dnamenjumbf manifestcalgfsha256dhashX Ñ¯‘2[NiªÒ_¸-î¨ÅúGl R¿Q¥ï˝ï¡æ)cpad@  âjumb   'jumdc2cl  Ä  ™ 8õqc2pa.claim.v2   Zcbor¶jinstanceIDx,xmp:iid:b1a34299-2187-4726-9fe8-9f48014afecctclaim_generator_info£dnamegChatGPTdicon¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„ÒkspecVersione2.2.0isignaturexMself#jumbf=/c2pa/urn:c2pa:772af424-d5e1-4852-b410-def82eb29fe6/c2pa.signaturercreated_assertionsÉ¢curlx$self#jumbf=c2pa.assertions/c2pa.icondhashX u>=W1í≥®NÎL˚¡åt∑'w÷–6«e6„Ò¢curlx*self#jumbf=c2pa.assertions/c2pa.actions.v2dhashX tﬂ0S~|î√ç¬ FbÕ¨o„ô|y·†∞ºFò9∫A¢curlx)self#jumbf=c2pa.assertions/c2pa.hash.datadhashX f”úoùﬁëÚ6Y;„eùbv0ﬂﬂ$ÀÍ∑ˇ›	™Hhdc:titleiimage.pdfcalgfsha256  P8jumb   (jumdc2cs  Ä  ™ 8õqc2pa.signature   Pcbor“ÑYË¢8$!ÇYà0ÇÑ0Çl†•¸ÈpåÚÄ1ÓDds0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0260422155105Z270423155104Z0G10	UUS10U
+OpenAI OpCo, LLC10UOpenAI Media Service0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ù∫jLMóÍÅâ∂—æ^XNr°ôﬂiq|Â!#”Å¢5úL£J<Ôn+øÊdÆ◊ÑKi$ZcœÍv
+ê≤e€|<ç·˛¡3wØ'ﬁ; :¥cáòÕMúø¥3D™T07F∏˝öyDsWU£c|›¨X/ÊzÆﬁ•ò√ìNHZ¯‡|§íK’l∫ ¬*»íæu‘îgµW™jöm00,◊Uaåj“S∂ x^ECûNí£ÄÒØ[—≤Î˛ãÔ∫◊7	ï´d-ô…áö¯ø.–ÁcÄñöy†7ì6£5…H…,òcÈDõ5¨πßSlúhs»
+9ÃIÛ £Çg0Çc0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0o+c0a09+0Ü-http://crt-c2pa.ssl.com/SSL.com-C2PA-I-R1.cer0$+0Ühttp://ocsp-c2pa.ssl.com0U 00
++ÉË^0)U%"0 ++$
++ÉË^0UÛùM‘Àùr¯F
+vG•hOt0Uˇ¿0	+ÉË^
++ÉË^
+03	+ÉË^&$019bc403-5cd7-7669-afe6-fdb17177d4280	*ÜHÜ˜ Ç Ç8óle°7 Ò˘Ìt∫’¶[5ıglœ+fi@Õı¸“rVﬂ ï(Í¯fﬁBC=¯x†h(â≠µÓ¸ı2“å∏_ÁlÄnÎ[|ó[0Á.B∏∆pö˛˛ 	¨5F’†åIEÄ√∫íU«Zùo“Îÿyõñ:ºDê44}ÙA•3ó/.lQR
+m=I∞À«ÜXÃ‹Óû.È∆9∏3\ ⁄Ó W3T.p(J%)Oí|.“˙›g.zËPx9Q∫É:⁄à~ê#êíıbXöÂ¬®sÜû≈ÿqÈÔ\d{ëÓ7/vòxVdÁoB—}íºÖjomdÖÿˇ"ñÌπÔ≤–\Ñ}h]5[K±≈iHyÊhé†ƒaò:L¯¿$yÂ¶h‡Ô˝÷ê÷.-AduV_ìî∂°úä<∂¿ËmÛ≈CÁv,h§ÚÊÀãàïË{*r$Å=!∆cm/%Ä£ô[™)•˝GÍ·˜kÂ˚[P&m+°Ç]1ı›b®|2‹L«•,r0PÄWìÇ‚ËÆ≥ßØY4ÆrÔ*ùÆx¨‚3ÏSµ…ô“(®*7°N´¸Ã~Xõ'mE·¥*úΩ0W°1. .…‚»T€°íOæ$5ò˛/i‹∏M„ﬁ/Ëlı¡ä‚”˛rw”®+‘WóÆáÿ æì∂âYS0ÇO0Ç7†'+c»ÃM-õÑQrlÙú^2QÆﬁ0	*ÜHÜ˜ 0O1&0$USSL.com C2PA RSA Root CA 202510U
+SSL Corporation10	UUS0251222181730Z301221181730Z0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç À:¥Õ∏úÀ)V∏yß¯kˆ˘ÿèr√¶ò≠*A⁄a.GRΩtQæ]ÏzÇ∂¿˚˙Ë'•ãË˛bÛ`Ò_H ssï‰NnÃNz5ﬁX·◊Ç‹“GCwõﬂHàyü£9§YN^‡NGóÚuB◊v=∂§"‹Ì∆o‘rFå÷Q«µ∑zÚì˘#'’ÄPuäp†hÈÁºÑ(|ú*Í)©¿/˛…vFU∞/cÍ}ûÙ∞D§@ﬁ@6\DäTkWHˇªo§’Íé¬◊|ÿºŒiø† MìE;ô.y“œûü)ªFŸxc0ñ3Qú^ìm˙Â4JXx≥)l]|∏uï<ôw!{ÿ¥JÎ⁄Õ«
+÷…¢ﬁÆó≥∂Qñ⁄íõ√≤ªPƒ˛∂§Lï]-íjObÂ‡*˜i†ú’πì ⁄—ª^O∆Ø˘)L–…ÏÎÛ≤qP{v'hë˘Pà∏w5ÿÕ°·◊”)ÁJ∆áTY$¬g≤m	5€∫Œ∏F•‡ã⁄·ßüjŒ`“ƒ˜¡ﬁsyU‡p¥ÔÍÃ«˛vâNf
+ià-Ì√F¢*‰å‘úWF-Xb’ ®˙~¯¬ŸajÀ5]†ì£≤e®/ÌÔòÁ¸~∫HÙ™°q¸ìØÍßNsài’B¿˘ÑíÖOÀT≥=:¯›)ey Cûñ∏áXñ!Ô—ë{ £Ç&0Ç"0Uˇ0ˇ 0Uˇ0)U%"0 ++$
++ÉË^0U9=G‹óèØà{MsÕÂÓ§•*0U 00
++ÉË^0U#0Ä¸*Ju:Ä˙ôcìsWÏæì∞}√{0x+l0j0$+0Ühttp://ocsp-c2pa.ssl.com0B+0Ü6http://crt-c2pa.ssl.com/SSL.com-C2PA-Root-2025-RSA.cer0	*ÜHÜ˜ Ç Œ6˙>Ôñ6-éØUfˇ{+ kVıÀ≠Ω*Å≠•¶–M£>ì‰ìi’‰å®nÊ7T‚%úÏef(<3=¢ö¢ªÕgdJÁæt!°n√´&ƒ;,⁄Uπ˝GN‡çxõ7Éƒt;≈GaÔmAr§€]CS…ñNÂ‡:ﬂ®›.—ØXó÷ÁÙ_r#<kœΩ9´åì®èßvY>·íı˜Ÿ˚Fb´nn‘àF†≥/*j_•N⁄¯‘¸ÃŸ£<©wE
+¡˘òπ9ÀÃ°q¿*Çq”‰ˆ%‚Q!m÷ﬂ‰SçoJ}é^¿∫’wy!ÅzŒÌ˜õé∂≤äBVùèkA*˛kúãÓ£(œ_ÛÈ–d÷Ó¬âKÎíœıØ¬'M∏ë°7%ôÊ˝Ä‹Ùº«7{æ¥-gX/Á√≥ãqÂDz0∂•≤u>[#~;”T¶:π«Ã3’j5zÅv/˛W⁄i¯>?ÔTèã{F√cû˙Ìƒ/pÑ+ˆVÇÙßÀ$◊l^${:Ω©X;i≥úè“ptˇãn&ª√´E«SñúGµ∆F´^ı¸àãh£5Â|jïeµ´Îπˇ∫∏‡õJG≤ŒÏ/â}ÓØúMƒ…Œı2=è˜&4˛"ãzÌ˘^^g_Q[€$V˚—Y°∑ﬁöf	∂—Ü.˙}~ïyõDf|6Öˆı£gsigTst2°itstTokensÅ°cvalYå0Çà	*ÜHÜ˜†Çy0Çu10	`ÜHe 0Åà*ÜHÜ˜	†yw0u
++Éø0010	`ÜHe  (ÛHM‡'	T5ùb‘¨8*WòÚ…Qgo∆Pˆ’˙µ	 èÈZúUÜÔ(20261118111216.039343Z0Ä	 ÑÌ{•gN†Çf0Çˆ0Ç^†a€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ 0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0260408174626Z370709174626Z0u10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Leaf0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ Í ≈≠î˝˝'ü«xßa ˇ)a*˚°àÕ_®¢óùâ/ãë»º∞ñê=UÇ¡ñé6j≠âiËê€,D2É®
+ÕwÂ5ËÓ®d[˛∏‡éùÁ °(√5›ß7È"˜	Móö¥Ñs¿.|©PG(†¥i∞á)zY˛5B˘ŸiRJ 7ÚhÃÒ-∑Çñ KF\=§Ü∏KEf8¢NM' ï∫uÃNájüt√ $_ƒ~\Æ˛ÛïÌ ëﬂ<ıÜõ*^÷–›…˙»M√…ÑZI,‰8s`R∏LÓ∆Û∑∂ÿ›j©Œ ∫]÷ƒ\5dÚ#S?bée]p+‘…k	ÅERËWÌZF]⁄]vú%yhÉQ§òÑuëròUˇÿ„Cb±Ìig'Aº≈èÚj+ÉIË·-4ª9ØgΩ¥ï»≤ΩEgÕràî_UK,≠ØÌ•Ù$Øw>ÉädQèëå9ñK∞=Æ˙ô°>å=æ6°.ıcµ £x0v0Uˇ0 0Uˇ¿0U%ˇ0
++0U§'TÇ¢äÄ{=≈ÜÕ?pŸ¬ÉôQx0U#0ÄÚ∞«T=#CÖ‹ s–rÄ=∏®0	*ÜHÜ˜ ÇÅ  ˚$OA¿¿ºò≤2 ç ôH5OƒFV~ß>?∂•#˘*H>‡QùE@x¡ªÉNìP…õ'ñhﬂMŒÚˆ“y´ÔÍ¡⁄?ıòYÊpÕâÙÓGã™ÀÏˇå~·FÿëÊú∏‰4Fˇa“x¯}89„RÌ_fËs¿ r;‰®´éÜ*£7!˘;ﬂ{\TÿL«j*KœCt`Äs£…—wØá©˝µ±Ñjnøà*Œö°ö´¢ûÇH7≈cQó€R|og…iB’œı˚≠^ãê‚‡y<.Éjû•Ë%AèÖÌ‰¡†:ç˛ùRPÔáﬁ·dÕU˘! ﬂ∂)Ôü'n—∫4F´J"OÁbw›E#›a-¬1)èƒπ~y´¥W‘¡Ïœ·\{eI∞ÎM´§«'@N¶¥µèœ|√¥Cßv”^0cÓ®Æ5(td´Z5„[/:>N
+a÷0MCõˇN.∆!π>:, W0ujédK¢–	—◊†g&Amg¯pv∏%&V˘ë&'√KI0Ç~0Çf†ç ∆≈≈⁄∞ºÒNï•Íº0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174626Z21260409174626Z0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CA0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ âº‘π‚»°æaªﬁ<df~ßæúm”©0&<Ù‡k 9ﬂï4Ì©¢eH€7Ü2ÉéÃ
+J†¿Û4l†¿òÕ+ü•ÙÀ|Ÿ&ﬁ~…M¢Ôc[ëÊˆY®“˙N˘Ÿ8+ZÕ`ZòÅò®◊S∆„÷.H¨CW	ÈîÚG˘lEä`∑˜Æ/^¢5NÖ8Öiü4ù–MÿC=Õ4m¸cì¸”pªJËvËjNfI†Ì¸¯æÔö∑®w¨Ô∑8Ãπ‘*3ƒv÷@wÀ˛«]-@”ﬁã<¿÷@AôÀî?,} kR¸û P∑	GE·#U˙±OoTòïÙ}∫¯h·"z‹äëCã∂.C±b†æ $é.Ôø§—MË∏?1œ&=≈ PÍÚŸ$ dÌ’sû.px™ﬁV<˘‘Ä¢Ë≠Øˆ˚®£\Àh´D€0wÚƒ4tkUm∆á˚Ú2<ûqE˜ÏP˚˛÷1&ª–ƒMa‚B€Ø√+n_+Ê‚∞Ôç\DÕ¿s}è¢ÈΩmÇº%eÑ0iÌ £{0y0Uˇ0ˇ 0Uˇ0U%0
++0UÚ∞«T=#CÖ‹ s–rÄ=∏®0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç íÏ7\ﬁlÎd⁄Æ°	0rÆ‹rı;ºz=÷∆·/ˆÉ3}ËW@NLô™k‘ôŸã€k÷L¯ –Y3”°†8\#àD$˚á·ˆì'º°ÌL_g]ˇ5´1“Ï{‘@C7O¬Ñú∫d»∞¢~ö6¯·–Ç≥PC≤‡UΩÄî»YRNJtﬁ]«EXõ∑˙0™;‹Gº’.,π8c,yZ∑›U≠=BﬂàœÒh˛s ‘Z∑ﬁ$óë¿Ág˛‹¶
+Û•F≥QœçØ_„»∏@∆Ω„˘÷Kq–d]Âd¬K¿^w—=«[ûœ{˝îîÁKQ⁄˚dÙ´5îÒˆæ~+›≤ö=P›P√ñdém´sü(;w–óÌoEO±3._FÎÉ∂©aº◊ÇÆ¯Äo¬„i0Êm|:Dí+ò-Ø‹4¡æ•*HÁá»ﬁ8µ3 „ÑPpÒ≤KﬁçOˆë‹_Ö˙ÒÊ—◊ ßÓ¥üˆ!x)Å„pXwÜ§:KóÉFË⁄¬jv…©À!Eæe±†Ü.ÄºYKMõCm¥◊Ñ‡¸’»aêCéjù√Ò!<Ñ]˛;÷ÿ#9E_q˙2˝†ÄïDµO Â√t˝‚NárÜÙQáΩ‘µ+5lí§;kjù∫˝¿;úv¬’9I⁄„î>Pj◊L‚âaùÔÎœ≈√@npz80ÇÊ0ÇŒ†P;lâå$3,è˜Oé˚}ÇÏ0	*ÜHÜ˜ 0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0 260408174625Z21260409174625Z0x10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Root CA0Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ˆíÈ“∫≠û·¨u®Vÿ™±≥jí_ñyıí∑-$¯ø¿Ø`æ¡öÕyö‹lö˛6ö¡ò§?‰,ù∫••Ps≥
+¬˘ÛƒI/xΩ“ÏºÁ?Ùõ—Ú†a¢,â% Q˘%ú“∆/ÙâƒA˛&”m5ÕÏª5`@®ÖQæˆÓêòÒ*ÿùzkjŸ.ŸcÛÂ\)≈Ü"¡ähÕÎ8û©Pñ[#C˚8ˇB|;:°Q/%…H‹1ˇPrÓ|°wÕoÅaÛ?ønË“±¶6‰k2˚˛w®^õ\››1êLéeˇÅÀAŒ(1S CŒHn}÷d≥)‰¥.:∑TZrVWÛ®j}ÔÊa›e»H	Iô2t
+¢Ã›ì S¨#ΩÇÖ ±ÔæÌ°w Ó:F3¢ûÏØÈ1f¥fo≤âì†~ï!ŒA¯^éÈÕπ¿’3]x––'1œP0rs⁄j¬¿ìœ≠‹dáˆ˚Nàvı>Ôˇí,ôw.ˆ‹ò∂ù	:˝Ù	«è_ZÈ~H	+µäÉÚ[<,Øë¢ùA∑Rh—ø∞¿⁄O`ΩÓ)™Ìáçq\(åçà£%cEÿ¸{aèlFT;\…∞ÇØÉ»±#?ü[Ó¢◊Tµ*SÆªÖ€¶˙óûÏÑârÛz@…∂ÖXG[Ò$a9¢Lﬁÿ∆®"Úûø[L,À £f0d0Uˇ0ˇ0Uˇ0UX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0U#0ÄX¬@†<Gv+®Ên®ëñéñ»∑Ÿ‰0	*ÜHÜ˜ Ç X¯ÅëòÚla˛»Ü÷[Ñ¶÷æ∏¶]]IÀ∏°)Õ-ù∏X˘Ñâ=<¯o’j¥*¢UígÅô^µT˚öFÄ„Q S¿¡àWﬁÔÇU~„Ù}Î&¸Éˇ!®¡¨ﬁ€ì´Õ–0v:ìùŒ™g9.Ätﬂm~v/ÈÍPAã8=lÂ‡>Ó/€dT6^æbE∂—!¥Ä<åÎ⁄ú÷J©’Te[k—X~¿IáÎÎK_í;î◊öÜˆ°YŒG8¨√∞td—¿R;°±{(k·ió¯(;'ˇÆ§û˜eÀ†ÙÍπΩîŒD‚ò±
+HhÓU©!•`è˛ ÷}—{Ü úÛ®x–∆⁄@.»Å\b®*¡˚VÁyéØÏÂ€”p˛FÃc®dÒ<ÈØ•dº^øÖ-∞Œ„π”§◊RªpãÜù˚.ø
+ˆ“U+#B+C\Ï°Ça?œqÌ∞˜óÈ‰À¬<¸¨w∑∂‹ ¡LÈâ≤≤/√~ídúµÑﬁÃñ˝â∞KµC}“È≠Ü˝Ÿ-üΩ Ó¿¥GV#|HëNgâ {b¡…^UÒˆ∆Q#WoÔáæ Fyæî±» (ùïäà&UfRÔŸK∫®ZÈ¬,≠ü√\BÛ°ı'dyqå
+Zû˝π˘Eyp·jµ7ñéX˝EøT%åÉ=Ÿ&3#–Xw¶∏1Çh0Çd0Åì0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	`ÜHe †Ç%0	*ÜHÜ˜	1*ÜHÜ˜	0/	*ÜHÜ˜	1" êW†jfL’XÆÊ™3ìj»ˇJÍß'⁄˘ïûÌœ,D0Å’*ÜHÜ˜	/1Å≈0Å¬0Åø0Åº ΩOπ≤êLÅ6gànÔA·m˛Ÿ"ùø[íJ–¢ƒ`F"z0Åó0§}0{10	UUS10	UCA10USan Francisco10U
+OpenAI OpCo, LLC10
+UTSA10UOpenAI TSA Issuing CAa€F(2äåçJ∑ø˛`„l?q∑0	*ÜHÜ˜ ÇÄhvÖ»◊x]`ØoÅ•Î˘˜*˛jãë%âhúTAŸ¢OÓˆ˛|8)h™ÿ#s€D∞wû‘”	3ÎåÂï√ ¯˚B≥ß·‹ÉfmM¯üäÚ·Œ¨%ŒV
+bªÃ≈IÊv¥?HoÂ{ﬁ—:≤’ ˚Lõt◊◊É¡f,≤Ò#‹£P˜B:uí8n°cΩ¿ 4dßmRPÄcëﬁ:nâESÑÇÖ®”@ à·‹u&ç >úeÅó™ﬂäinôÏ]?Ü™
+ç#÷;≠ô8âp€ „[HHu‡n©Â®‹6/‚Óò˚⁄Î† À‚<Zˇaµ…ÍZæ‰nz·¸†ùi{”B¿G8ÿm¿jf¨π†ªÏc“¸’:®≤§™v˜¢[WÌ´õŸoÅ4Ab¥«¯I√Âìíc[˝¶‰˜¨]_(ì“πóJ¢@ P√0è%Ü<vdT¶!Á!À¡o»[#˝GàWû©ñ¡0√≠JWÄ:´n«áï«¸…uÛ_ﬂ~¡erVals°hocspValsÅY◊0Ç”
+ †ÇÃ0Ç»	+0Çπ0Çµ0ÅÈ¢mÃ†g\¿ÃwY◊UBÉ≤÷+20261118092606Z0Åò0Åï0I0	+ ﬂÇ7S^Sÿ3±‡=$5ÒuÊ·
+9=G‹óèØà{MsÕÂÓ§•*•¸ÈpåÚÄ1ÓDdsÄ 20261118092606Z†20261125092605Z°"0 0	+020161120092606Z°#0!0	+0ØÖ»#ÃÂe.’nˆ
+Ì5£0	*ÜHÜ˜ ÇÅ æ"lr¿§∑K¸P|CÂQ%äVÇ	çy]}ÂÚ+–Øø$ﬁ±◊±ßa≈≤SJ
+*ﬁs¶«ªõ«(¡Jrπ˜ÿ´[Ò≠W>j
+Â÷›≤‹˘9‡<XR–7ˇ√JEóøw˙üéµ˝ûEóôñlÉ˜˝´`^Q\÷Ù`÷5ãòoâìm¨gv”€\â¶ ä˜QA˛eÖ.N›%gsÂ¶Õ{≤˚>Ëdìä»|©£t≈y˜˚Hmﬁ>x@!Ïc5⁄ﬁäuxV÷‰–*K‘Âè‰NÂqA+s·>—V9ÚMZíy«rst!9‚X ˘\<ì€ˆ7YÈrÒ,Y]MΩ≈b£áPóHMÌ%8√Ωsv´â∆}IDtÍî√"‰NQI∏£ÿ,HQ7∂˚a3tMI'ıœ¿Ï›˛∞Wﬂ˙%Cú˚:ßöZà¡€ÆÍ›ˇ˚kÚ<≤*É¡ÓóaóÃƒ`õ94øXÁç-ìL”vpW∆¬} %÷SZe/#ƒ¿!‡g
+¶6æ†Ç10Ç-0Ç)0Ç†pßπß⁄!ıD–Æ≤D0	*ÜHÜ˜ 0J1!0USSL.com C2PA ICA R1 202510U
+SSL Corporation10	UUS0261104111802Z271104111801Z0M10	UUS10U
+SSL Corp1+0)U"SSL.com C2PA ICA R1 OCSP Responder0Ç¢0	*ÜHÜ˜ Çè 0ÇäÇÅ ƒ''â°mˇN/VrWa=XÙúQoŸ|	∫'êIªT#á"úˇ∑j ∏I:ﬁ
+%≈˚‡àI‡•˝∏oÊØD?öÛ[è…A≤“˝Ò3W≠˚è¬-ÍŒ $°|©ä3Ú˚JÜ∆/˝.:°ÁÎøçÜ±tæZãE*≠vµ-∆CÃò‹å›ÿI±ÑØzû°K÷7ÅÆŒùÕ›¿!òπ√n‡9ÍìlnT.Œ(à™6÷:%â>¡˚Bb„nüIàDÑ—£yëO14—º“IZ_Im/PÄé®/Ftp©»g∏BÂqt 6KVt∫√ı¬~Yø÷ÀÁsã*‘Êü"©<qtú‡n[9NÒûÌÖ°Å3$Ilˇ°
+Jg5+∞˛®÷	Uvl¿øz?0•…øÅ|îÚ†≠Qñ`#ä« ¨ˆ£‘—b]˜X`ß¯	e&¥R5Ï˜˚÷ßπ˜É Q©%∆BÖ∆”$4qD_–œ:TÖœ4ﬁSŒ¶&‰©l≠ÄçP¯—≥◊ºwY £Åá0ÅÑ0Uˇ0 0U#0Ä9=G‹óèØà{MsÕÂÓ§•*0	+0 0U%0
++	0UmÃ†g\¿ÃwY◊UBÉ≤÷+0UˇÄ0	*ÜHÜ˜ Ç ≈–]ıF¢¸ÎAgÜNﬂ_Î7	dh∆=´dcñèÄÜ>π>& W9˙ù^%⁄ÍèSm`0K≈Úñ˜P⁄\Í&ùµK£ªÏ ;ò Gh⁄˚IfØüŒù/—t≥© ∂;À<†6“¿-◊jaº á›:õu>âÀ©Ö‚ë’Ã∞’ı	Tt@œ≈E¯˜¸≈W˚™bÍπˆ!
+òóO' ¨o€èß¨2ePs°ˆå¿.
+ŒÌÊl‚£sÊQ.8íÜÅgæÕúå êØiÎè(m«õÎß˜ÎÖ÷∂®£@ˆ©∑üﬁÆo§6ˆ|V¯HÎØÌA}ª}¸hÅ˚Ï™ì$/‰z#≥&`ıWxïÅ ‡qƒ&07å]ëÑ—VuBøÂ{ÿU¸Ü≠Ê¯bÍ∞›5\îøÈ«'∑‰-7Ò>w±Dài|®›¸¢πÖ>H¥£€n^G6üë0ﬂÅ?:%˙Á1º»qÇBˇö`0\˜√ä=5o
+=Áe¡}ŒH82"HA‡˚y-—3Âv	§˘u&'Ωw%∏ö¶Xyaw«∫«ûK°µµ›â∞£0fG ÈÒh#©aJÅ\”≤©e¢∏´‰I˚gö∆™ÎsœÙâ±9zX∏À´Àïˆ˚|u>«›>FÛ†ws»nˇMºÅ˙Œä[!R¡Ôß„y]…√ªP+Ê¬Ê;cpadY&t                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ˆY 5&‘õj‚Ç	π?W?¢_Ø˛!èó⁄Á#T!™±Hùó∑ˆà@|&&qËeõãí<E2ì>µOä Öw†Ü9—”:ã˜bÿøóπ–ìÄàÔRåEnqvs%Vé√ïî¨q	})ƒìuU¿«8”«‡Îˇˇ8!∂Zæïb¥ó+’¥Ÿ∆·MÎΩ!fï··†™jrõÂûÑi°!ö”äKrZì[z⁄!Î¥f÷ƒjµ*Ø7≠∂_f&$Áß›$øˇ&¿°õ¨7#4∏>ﬁrdˇõ2·˚”“¨@¸Ö◊ó[≥Aáˇ·]®"i)⁄1rÀ|ïÅVÒ«Q+˜Õà#Ç¬Q
+endstream
+endobj
+50 0 obj
+<< /AFRelationship /C2PA_Manifest /Desc (Content Credentials) /F (Content Credentials) /EF << /F 49 0 R >> /Subtype (application/c2pa) /Type /Filespec /UF (Content Credentials) >>
+endobj
+xref
+3 1
+0000056261 00001 n 
+49 2
+0000056396 00000 n 
+0000080775 00000 n 
+trailer
+<< /Size 51 /Root 3 1 R /Prev 55202 >>
+startxref
+80971
+%%EOF
